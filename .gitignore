@@ -1,5 +1,7 @@
 /build/*
 /dist/*
 /main.spec
-/locale/*
-/.tmp/*
+/.venv/*
+/*/__pycache__
+/test*
+/.env

@@ -1,0 +1,27 @@
+# 版本控制
+.git
+.gitignore
+
+# 构建产物
+build/
+dist/
+__pycache__/
+*.pyc
+
+# 依赖与环境(密钥绝不可进镜像)
+.venv/
+.env
+*.env.local
+
+# 测试脚本 / 临时文件
+test.py
+test*
+*.log
+agent.log
+
+# 文档
+docs/
+
+# 打包产物
+*.spec
+Makefile

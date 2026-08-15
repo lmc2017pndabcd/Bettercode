@@ -1,2 +1,7 @@
 OpenAI
 rich
+psycopg[binary]
+pgvector
+fastembed
+anthropic
+mcp
